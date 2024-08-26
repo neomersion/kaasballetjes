@@ -1,0 +1,19 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Kaas
+    probability: 1
+  - name: Balletjes
+    probability: 2
+  - name: Hof
+    probability: 1
+  - name: Gert
+    probability: 1
+  - name: Bert
+    probability: 2
+  - name: Snert
+    probability: 2
+name: 'New Townname #0'
+source: ''
+subsets: []
